@@ -1,1 +1,3 @@
-init
+Android数据统计Demo
+
+自定义的数据统计与上传
